@@ -5,10 +5,8 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  
 - [My process](#my-process)
   - [Built with](#built-with)
-  
 - [Author](#author)
 
 ### Screenshots
