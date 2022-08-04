@@ -8,10 +8,10 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - 
+  
 - [Author](#author)
 
-### Desktop 
+### Screenshots
 
 
 ![](./screenshots/desktop.png)
@@ -41,5 +41,5 @@
 ## Author
 
 - Github - [itsnooshin](https://github.com/itsnooshin)
-- Live site  - 
+
 
